@@ -30,7 +30,7 @@ class DeliveryMapScreen extends StatelessWidget {
               child: Padding(
                 padding: const EdgeInsets.all(16),
                 child: Column(
-                  mainSize: MainSize.min,
+                  mainAxisSize: MainAxisSize.min,
                   children: [
                     const Text(
                       'حالة التوصيل',
