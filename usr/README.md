@@ -1,16 +1,22 @@
-# couldai_user_app
+# توصيل طلبات
 
-A new Flutter project.
+تطبيق توصيل طلبات للسائقين - Flutter Application
 
-## Getting Started
+## المميزات
 
-This project is a starting point for a Flutter application.
+- عرض الطلبات المتاحة للتوصيل
+- تفاصيل كاملة لكل طلب
+- خريطة التوصيل
+- تتبع حالة الطلبات
+- ملف شخصي للسائق
 
-A few resources to get you started if this is your first Flutter project:
+## البدء
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. تأكد من تثبيت Flutter
+2. قم بتشغيل `flutter pub get`
+3. شغل التطبيق باستخدام `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## المتطلبات
+
+- Flutter SDK >= 3.7.2
+- Dart SDK >= 3.0.0
